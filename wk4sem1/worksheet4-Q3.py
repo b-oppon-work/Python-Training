@@ -1,3 +1,5 @@
+# 3. Write a program sign.py to ask the user for a number.
+# Print out which category the number is in: 'positive', 'negative', or 'zero'.
 
 def sign(number):
     if (number > 0):

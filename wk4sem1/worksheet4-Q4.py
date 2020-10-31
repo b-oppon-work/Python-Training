@@ -1,3 +1,7 @@
+# 4.	Write a function to print absolute value of a number entered by user.
+#For example:
+#INPUT: 1        OUTPUT: 1
+#INPUT: -1        OUTPUT: 1
 
 def absolute_value(input2):
     print(abs(input2))
