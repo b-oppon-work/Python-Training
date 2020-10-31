@@ -3,7 +3,7 @@
 # we will collect the data from the user
 
 def greatest_number(input1, input2):
-    if (input1 >= input2 ):
+    if (input1 > input2 ):
         print("this greatest number is " , input1 )
     else :
         print("this greatest number is ", input2 )
