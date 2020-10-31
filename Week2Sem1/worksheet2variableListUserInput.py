@@ -29,3 +29,5 @@ input_1 = input("Please enter your favourite food:" )
 input_2 = input("Please enter your second favourite food:")
 new_food = (input_1+ "-" +input_2)
 print(new_food)
+
+#this is to check my updates
