@@ -1,4 +1,5 @@
-# Take a number from a user and print whether or not they have enough credits for graduation.
+# 2.Write a function that prompts students for how many credits they have.
+# Print whether or not they have enough credits for graduation (At UoW 360 credits are needed for graduation).
 
 
 def students_credit_checker(score):
