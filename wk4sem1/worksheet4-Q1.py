@@ -4,9 +4,9 @@
 
 def greatest_number(input1, input2):
     if (input1 > input2 ):
-        print("this greatest number is " , input1 )
+        print("the greatest number is " , input1 )
     else :
-        print("this greatest number is ", input2 )
+        print("the greatest number is ", input2 )
 
 def main():
     user_input1 = int(input("Please enter first number: "))
