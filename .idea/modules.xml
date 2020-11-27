@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonUniTestProject/.idea/pythonUniTestProject.iml" filepath="$USER_HOME$/PycharmProjects/pythonUniTestProject/.idea/pythonUniTestProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonWithoppon.iml" filepath="$PROJECT_DIR$/.idea/pythonWithoppon.iml" />
     </modules>
   </component>
